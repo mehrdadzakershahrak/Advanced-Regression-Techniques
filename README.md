@@ -10,3 +10,13 @@ I perform:
 5. Model Tuning
 
 I deal with both categorical and non-categorical features.
+
+Cited as:
+    
+    @article{zakershahrak2021,
+      title="Advanced Regression techniques",
+      author="Mehrdad Zakershahrak",
+      journal="https://github.com/mehrdadzakershahrak",
+      year="2021",
+      url = "https://github.com/mehrdadzakershahrak/Advanced-Regression-Techniques.git"
+    }
